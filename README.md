@@ -10,6 +10,20 @@
 </div>
 <hr> -->
 
+
+<p align="center">
+<a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=ABD200&center=true&vCenter=true&repeat=false&width=435&lines=My+Skills" alt="Typing SVG" />
+    </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,py,cs,html,css,bash,linux,git" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=vscode,ps" />
+  </a>
+</p>
+
+<hr>
+
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=ABD200&center=true&vCenter=true&repeat=false&width=435&lines=My+Contributions" alt="Typing SVG" />

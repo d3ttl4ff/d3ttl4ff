@@ -38,7 +38,7 @@
     },
     {
         "type": "normal",
-        "fileName": "profile-custom-hacker2.svg",
+        "fileName": "profile-custom-hacker.svg",
         "backgroundColor": "#0A0F0B",
         "foregroundColor": "#eeeeff",
         "strongColor": "#ABD200FF",
@@ -46,11 +46,11 @@
         "radarColor": "#ABD200FF",
         "growingAnimation": true,
         "contribColors": [
-          "#ccd897",
-          "#ABE500FF",
-          "#32A500FF",
-          "#47a042",
-          "#0E7405"
+          "#E8F9B0",
+          "#CDEB82",
+          "#ABE500",
+          "#86B800",
+          "#496e03"
         ]
       }
 ]

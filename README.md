@@ -8,11 +8,9 @@
 <hr>
 
 <div align="center">
-  <h2>
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=ABD200&center=true&vCenter=true&repeat=false&width=435&lines=My+Contributions" alt="Typing SVG" />
     </a>
-  </h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/d3ttl4ff/d3ttl4ff/output/github-contribution-grid-snake-dark.svg" />
   <br>
 </div>

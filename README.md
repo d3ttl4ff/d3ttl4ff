@@ -8,7 +8,9 @@
 <!-- <div align="center">
     <img src="/github-metrics.svg" alt="Metrics" width="100%">
 </div> -->
+<!-- <hr> -->
 
+![](./profile-3d-contrib/profile-green-animate.svg)
 <hr>
 
 <div align="center">

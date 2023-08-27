@@ -5,7 +5,9 @@
     </a>
 </h2>
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+<div align="center">
+    <img src="/github-metrics.svg" alt="Metrics" width="400">
+</div>
 
 <hr>
 

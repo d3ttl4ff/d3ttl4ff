@@ -11,18 +11,18 @@
 <hr> -->
 
 
-<p align="center">
-<a href="https://git.io/typing-svg">
+<h2 align="center">
+    <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=ABD200&center=true&vCenter=true&repeat=false&width=435&lines=My+Skills" alt="Typing SVG" />
     </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,cs,html,css,bash,linux,git" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=vscode,ps" />
-  </a>
-</p>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,py,cs,html,css,bash,linux,git" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=vscode,ps" />
+    </a>
+</h2>
 
-<hr>
+<!-- <hr> -->
 
 <div align="center">
     <a href="https://git.io/typing-svg">
@@ -30,17 +30,18 @@
     </a>
 </div>
 
-<p align="center" >
+<h2 align="center" >
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/d3ttl4ff/d3ttl4ff/output-3d-contrib/profile-custom-hacker.svg" />
 	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/d3ttl4ff/d3ttl4ff/output-3d-contrib/profile-custom-hacker.svg" />
 	</picture>
-</p>
-<hr>
+</h2>
+<!-- <hr> -->
 
 | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=d3ttl4ff&theme=merko&hide_border=true)](https://git.io/streak-stats) | <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d3ttl4ff&show_icons=true&theme=merko&rank_icon=github&hide_border=true&locale=en" alt="readme-stats" /></p> |
 | ------------- | ------------- |
 
+<h2></h2>
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/d3ttl4ff/d3ttl4ff/output/github-contribution-grid-snake-dark-retro.svg" />
 </div>

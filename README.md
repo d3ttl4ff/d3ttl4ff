@@ -1,6 +1,8 @@
 
 <h2 align="center">
     <a href="https://git.io/typing-svg">
+        <img src="https://media.giphy.com/media/7qyChI761OqKjJcTpm/giphy.gif" width="50">
+        <br>
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ABD200&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Aimy" alt="Typing SVG" />
     </a>
 </h2>
@@ -11,18 +13,17 @@
 <hr> -->
 
 
-<h2 align="center">
+<p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=ABD200&center=true&vCenter=true&repeat=false&width=435&lines=My+Skills" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=ABD200&center=true&vCenter=true&repeat=false&width=435&lines=Languages+and+Tools" alt="Typing SVG" />
     </a>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=js,py,cs,html,css,bash,linux,git" />
         <br>
         <img src="https://skillicons.dev/icons?i=vscode,ps" />
     </a>
-</h2>
-
-<!-- <hr> -->
+</p>
+<hr>
 
 <div align="center">
     <a href="https://git.io/typing-svg">
@@ -30,18 +31,17 @@
     </a>
 </div>
 
-<h2 align="center" >
+<p align="center" >
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/d3ttl4ff/d3ttl4ff/output-3d-contrib/profile-custom-hacker.svg" />
 	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/d3ttl4ff/d3ttl4ff/output-3d-contrib/profile-custom-hacker.svg" />
 	</picture>
-</h2>
-<!-- <hr> -->
+</p>
+<hr>
 
 | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=d3ttl4ff&theme=merko&hide_border=true)](https://git.io/streak-stats) | <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d3ttl4ff&show_icons=true&theme=merko&rank_icon=github&hide_border=true&locale=en" alt="readme-stats" /></p> |
 | ------------- | ------------- |
 
-<h2></h2>
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/d3ttl4ff/d3ttl4ff/output/github-contribution-grid-snake-dark-retro.svg" />
 </div>

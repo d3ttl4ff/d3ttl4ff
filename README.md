@@ -10,8 +10,8 @@
 </div> -->
 <!-- <hr> -->
 
-![](./profile-3d-contrib/profile-green-animate.svg)
-<hr>
+<!-- ![](./profile-3d-contrib/profile-green-animate.svg)
+<hr> -->
 
 <p align="center" >
 	<picture>
@@ -19,6 +19,7 @@
 	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/d3ttl4ff/d3ttl4ff/output-3d-contrib/day.svg" />
 	</picture>
 </p>
+<hr>
 
 <div align="center">
     <a href="https://git.io/typing-svg">

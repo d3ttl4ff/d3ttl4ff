@@ -5,6 +5,8 @@
     </a>
 </h2>
 
+![Metrics](/github-metrics.svg)
+
 <hr>
 
 <div align="center">

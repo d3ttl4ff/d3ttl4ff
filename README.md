@@ -5,12 +5,9 @@
     </a>
 </h2>
 
-<div align="center">
+<!-- <div align="center">
     <img src="/github-metrics.svg" alt="Metrics" width="100%">
 </div>
-<hr>
-
-<!-- ![](./profile-3d-contrib/profile-green-animate.svg)
 <hr> -->
 
 <p align="center" >

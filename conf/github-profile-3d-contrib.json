@@ -39,18 +39,18 @@
     {
         "type": "normal",
         "fileName": "profile-custom-evergreen.svg",
-        "backgroundColor": "#ffffff",
-        "foregroundColor": "#00000f",
+        "backgroundColor": "#0A0F0B",
+        "foregroundColor": "#eeeeff",
         "strongColor": "#111133",
         "weakColor": "gray",
-        "radarColor": "#47a042",
+        "radarColor": "#ABD200FF",
         "growingAnimation": true,
         "contribColors": [
-          "#efefef",
-          "#d8e887",
-          "#8cc569",
+          "#ccd897",
+          "#ABE500FF",
+          "#32A500FF",
           "#47a042",
-          "#1d6a23"
+          "#0E7405"
         ]
       }
 ]

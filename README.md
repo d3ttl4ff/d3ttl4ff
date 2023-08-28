@@ -1,8 +1,7 @@
 
 <h2 align="center">
+<img src="https://media.giphy.com/media/7qyChI761OqKjJcTpm/giphy.gif" width="50">
     <a href="https://git.io/typing-svg">
-        <img src="https://media.giphy.com/media/7qyChI761OqKjJcTpm/giphy.gif" width="50">
-        <br>
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ABD200&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Aimy" alt="Typing SVG" />
     </a>
 </h2>

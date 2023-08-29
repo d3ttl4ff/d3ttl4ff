@@ -24,7 +24,7 @@
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https%3A%2F%2Ftwitter.com%2Fitzluminara">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https%3A%2F%2Fwww.facebook.com%2Feternal.burn">
 
-    ![Static Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto%3Aerandasblackburn%40gmail.com)
+![Static Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto%3Aerandasblackburn%40gmail.com)
 
 <div>
 

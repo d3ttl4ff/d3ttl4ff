@@ -54,7 +54,7 @@
 </p>
 <hr>
 
-| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=d3ttl4ff&theme=merko&hide_border=true)](https://git.io/streak-stats) | ![readme-stats](https://github-readme-stats.vercel.app/api?username=d3ttl4ff&show_icons=true&theme=merko&rank_icon=github&hide_border=true&locale=en) |
+| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=d3ttl4ff&theme=merko&hide_border=true)](https://git.io/streak-stats) | <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d3ttl4ff&show_icons=true&theme=merko&rank_icon=github&hide_border=true&locale=en" alt="readme-stats" /></p> |
 | ------------- | ------------- |
 
 <div align="center">

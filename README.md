@@ -54,7 +54,7 @@
 </p>
 <hr>
 
-| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=d3ttl4ff&theme=merko&hide_border=true)](https://git.io/streak-stats) | ![Aimy's GitHub stats](https://github-readme-stats.vercel.app/api?username=d3ttl4ff&rank_icon=github&show_icons=true&theme=merko)</p> |
+| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=d3ttl4ff&theme=merko&hide_border=true)](https://git.io/streak-stats) | ![readme-stats](https://github-readme-stats.vercel.app/api?username=d3ttl4ff&show_icons=true&theme=merko&rank_icon=github&hide_border=true&locale=en) |
 | ------------- | ------------- |
 
 <div align="center">

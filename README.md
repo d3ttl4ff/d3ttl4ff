@@ -61,13 +61,13 @@
 </div>
 <br>
 
-<hr>
+<!-- <hr>
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=ABD200&center=true&vCenter=true&repeat=false&width=435&lines=Listening+Now" alt="Typing SVG" />
     </a>
     
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=folgrj6q5x0og3tss4vpvj8nf&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=folgrj6q5x0og3tss4vpvj8nf&redirect=true)
-</div>
+</div> -->
 
 

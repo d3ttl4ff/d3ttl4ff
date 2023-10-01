@@ -1,6 +1,6 @@
 
 <h2 align="center">
-    <img src="berserker-og.gif" width="100">
+    <img src="berserker-hound.gif" width="100">
     <br>
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ABD200&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Aimy" alt="Typing SVG" />

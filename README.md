@@ -1,23 +1,3 @@
-
-<h2 align="center">
-    <img src="berserker-hound.gif" width="100">
-    <br> 
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=90000&color=ABD200&center=true&vCenter=true&width=600&lines=There+is+no+place+like+127.0.0.1" alt="Typing SVG" />
-    </a>
-
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/itzluminara-141d2b?style=for-the-badge&logo=instagram&logoColor=ABD200)](https://www.instagram.com/itzluminara)
-[![Github](https://img.shields.io/badge/d3ttl4ff-141d2b?style=for-the-badge&logo=github&logoColor=ABD200)](https://www.instagram.com/itzluminara)
-[![Github](https://img.shields.io/badge/rakooyo-141d2b?style=for-the-badge&logo=steam&logoColor=ABD200)](https://www.instagram.com/itzluminara)
-</h2> 
-<div>
-
-
-
-
 <h2 align="center">
     <img src="berserker-hound.gif" width="100">
     <br>

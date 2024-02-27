@@ -1,13 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=280&color=0:ABD200,100:ABD200&text=Hi!%20%20I'm%20%20Aimy&reversal=false&section=header&fontColor=000000)
 
-<h2 align="center">
-    <img src="berserker-hound.gif" width="100">
-    <br>
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=8000&color=ABD200&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Aimy" alt="Typing SVG" />
-    </a>
-</h2>
-
 <!-- <div align="center">
     <img src="/github-metrics.svg" alt="Metrics" width="100%">
 </div>
@@ -27,6 +19,14 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/eternal.burn/)
 <div>
 <hr> 
+
+<h2 align="center">
+    <img src="berserker-hound.gif" width="100">
+    <br>
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=8000&color=ABD200&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Aimy" alt="Typing SVG" />
+    </a>
+</h2>
 
 <p align="center">
     <a href="https://git.io/typing-svg">

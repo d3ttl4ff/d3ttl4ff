@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=280&color=0:ABD200,100:ABD200&text=Hi!%20%20I'm%20%20Aimy&reversal=false&section=header&fontColor=141d2b)
+![header](https://capsule-render.vercel.app/api?type=waving&height=280&color=0:ABD200,100:ABD200&text=Hi!%20%20I'm%20%20Aimy&reversal=false&section=header&fontColor=0D1117)
 
 <!-- <div align="center">
     <img src="/github-metrics.svg" alt="Metrics" width="100%">

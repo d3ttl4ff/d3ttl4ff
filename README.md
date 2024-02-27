@@ -3,7 +3,7 @@
 <h2 align="center">
     <img src="berserker-hound.gif" width="100">
     <br>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=5000&color=ABD200&center=false&vCenter=false&random=false&width=435&lines='Dreams.+Win+or+lose...+I'm+sure+you+could+spend+your+whole+life+chasing+one.'" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=5000&color=ABD200&center=true&vCenter=true&random=false&width=600&lines='Dreams.+Win+or+lose...+I'm+sure+you+could+spend+your+whole+life+chasing+one.'" alt="Typing SVG" /></a>
 </h2>
 
 <!-- <div align="center">

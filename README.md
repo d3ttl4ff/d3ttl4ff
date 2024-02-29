@@ -70,6 +70,3 @@
 </div> -->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=110&color=color=0:9fef00,100:9fef00&section=footer&reversal=false)
-
-
-s

@@ -4,7 +4,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1000&pause=9000&color=ABD200&center=true&vCenter=true&multiline=true&random=false&width=800&lines='Dreams.+Win+or+lose...+I'm+sure+you+could+spend+your+whole+life+chasing+one.'" alt="Typing SVG" /></a>
 </h2>
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=280&color=0:ABD200,100:ABD200&text=Hi!%20%20I'm%20%20Aimy&textBg=false&section=header&fontColor=0D1117&fontAlignY=44)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ABD200,100:ABD200&text=Hi!%20%20I'm%20%20Aimy&textBg=false&section=header&fontColor=0D1117&fontAlignY=42)
 
 <!-- <div align="center">
     <img src="/github-metrics.svg" alt="Metrics" width="100%">

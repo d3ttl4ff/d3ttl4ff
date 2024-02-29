@@ -4,7 +4,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1000&pause=9000&color=ABD200&center=true&vCenter=true&multiline=true&random=false&width=800&lines='Dreams.+Win+or+lose...+I'm+sure+you+could+spend+your+whole+life+chasing+one.'" alt="Typing SVG" /></a>
 </h2>
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:ABD200,100:9fef00&text=Hi!%20%20I'm%20%20Aimy&textBg=false&section=header&fontColor=0D1117&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:ABD200,100:9fef00&text=Hi!%20%20I'm%20%20Aimy&textBg=false&section=header&fontColor=0D1117&fontAlignY=38&fontSize=40)
 
 <!-- <div align="center">
     <img src="/github-metrics.svg" alt="Metrics" width="100%">
@@ -69,4 +69,4 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=folgrj6q5x0og3tss4vpvj8nf&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=folgrj6q5x0og3tss4vpvj8nf&redirect=true)
 </div> -->
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=70&color=0:9fef00,100:ABD200&section=footer&reversal=false)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=60&color=0:9fef00,100:ABD200&section=footer&reversal=false)

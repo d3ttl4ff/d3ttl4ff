@@ -32,7 +32,7 @@
     </a>
     <br>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,py,cs,flutter,dart,html,css,bash,linux,git" />
+        <img src="https://skillicons.dev/icons?i=py,bash,debian,linux,git,vscode,cs,js,html,css" />
         <br>
         <img src="https://skillicons.dev/icons?i=vscode,ps" />
     </a>

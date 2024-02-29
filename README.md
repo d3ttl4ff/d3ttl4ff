@@ -71,4 +71,4 @@
 
 [![Aimy's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=d3ttl4ff&theme=merko&area=true&hide_border=true)](https://github.com/d3ttl4ff/github-readme-activity-graph)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=60&color=0:9fef00,100:ABD200&section=footer&reversal=false)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=65&color=0:9fef00,100:ABD200&section=footer&reversal=false)

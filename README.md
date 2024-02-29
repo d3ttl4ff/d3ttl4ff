@@ -69,6 +69,6 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=folgrj6q5x0og3tss4vpvj8nf&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=folgrj6q5x0og3tss4vpvj8nf&redirect=true)
 </div> -->
 
-[![Aimy's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=d3ttl4ff&bg_color=4A924A&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/d3ttl4ff/github-readme-activity-graph)
+[![Aimy's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=d3ttl4ff&bg_color=0a0f0b&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/d3ttl4ff/github-readme-activity-graph)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=60&color=0:9fef00,100:ABD200&section=footer&reversal=false)

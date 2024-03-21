@@ -64,7 +64,7 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d3ttl4ff\&layout=compact\&size_weight=1&count_weight=1\&theme=merko\&hide_border=true) |
 | -------------------------- |
 
-<div style="width: 100%; height: 50%; display: flex; justify-content: center;">
+<div style="width: 100%; height: 50px; display: flex; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3ttl4ff&layout=compact&theme=merko&hide_border=true" style="width: 100%;">
 </div>
 

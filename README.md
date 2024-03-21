@@ -65,7 +65,7 @@
 | -------------------------- |
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3ttl4ff&layout=compact&theme=merko&hide_border=true" style="width: 100%;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3ttl4ff&layout=compact&theme=merko&hide_border=true" style="width: 100%; height: 50px">
 
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/d3ttl4ff/d3ttl4ff/output/github-contribution-grid-snake-dark-retro.svg" />

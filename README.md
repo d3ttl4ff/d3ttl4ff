@@ -65,7 +65,7 @@
 | -------------------------- |
 
 <div style="width: 100%; display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3ttl4ff&layout=compact&theme=merko&hide_border=true" style="width: 50%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3ttl4ff&layout=compact&theme=merko&hide_border=true" style="width: 100%;">
 </div>
 
 <div align="center">

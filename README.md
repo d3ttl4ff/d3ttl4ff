@@ -64,9 +64,6 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d3ttl4ff\&layout=compact\&size_weight=1&count_weight=1\&theme=merko\&hide_border=true) |
 | -------------------------- |
 
-<!-- <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/d3ttl4ff/d3ttl4ff/output/github-contribution-grid-snake-dark-retro.svg" />
-</div> -->
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/d3ttl4ff/d3ttl4ff/output/github-contribution-grid-snake-dark-retro.svg" />
 </div>

@@ -65,9 +65,8 @@
 | -------------------------- |
 
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/d3ttl4ff/d3ttl4ff/output/github-contribution-grid-snake-dark-retro.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/d3ttl4ff/d3ttl4ff/output/github-contribution-grid-snake-dark-custom.svg" />
 </div>
-<!-- dist/github-contribution-grid-snake-dark-retro.svg?palette=github-dark&color_snake=#ABD200&color_dots=#0A0F0B,#e9d8a6,#ee9b00,#ca6702,#bb3e03 -->
 <br>
 
 <!-- <hr>

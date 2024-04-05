@@ -12,19 +12,20 @@
 </div>
 <hr> -->
 
-<div align="left">
-    <a href="https://git.io/typing-svg" align="center">
+<div align="center">
+    <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=ABD200&center=true&vCenter=true&repeat=false&width=435&lines=A+Gist+of+Me" alt="Typing SVG" />
     </a>
     <br>
+<div>
 
+<div align="left">
 - 💻 Associate Software Engineer at [Metaroon Labs](https://metaroonlabs.com/), Sri Lanka
 - 📚 Currently learning GraphQL and Dapps..
 - 🎓 Final year undergraduate student from 🇱🇰 Sri Lanka Technological Campus AKA SLTC 📡 
 - 📌 Former IEEE CS SBC Chairman @SLTC
 - 🎯 Highly motivated to learn and explore new tech and solve problems ✅
 - 🥾⛰ Hiking 🎮 PCMR+PS 🎥 Cinephile 🥁 Drums 🎸 MetalHead 🤘
-
 <div>
 <hr> 
 

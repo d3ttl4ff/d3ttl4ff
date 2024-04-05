@@ -20,7 +20,6 @@
 <div>
 
 <div align="left">
-
 👋 A second-year undergraduate specializing in Cyber Security at 🇬🇧 Staffordshire University.
 💻 Currently developing a Python and Bash based Web Pentesting automation tool.
 📚 Studying ML and Data science with the intent of crafting AI based Solutions for platforms.

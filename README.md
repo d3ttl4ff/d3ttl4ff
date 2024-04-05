@@ -7,10 +7,20 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:ABD200,100:9fef00&text=Hi!%20%20I'm%20%20Aimy&textBg=false&section=header&fontColor=0D1117&fontAlignY=38&fontSize=50)
 
-<div align="center">
+<!-- <div align="center">
     <img src="/github-metrics.svg" alt="Metrics" width="100%">
 </div>
-<hr>
+<hr> -->
+
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=ABD200&center=true&vCenter=true&repeat=false&width=435&lines=A+Gist+of+Me" alt="Typing SVG" />
+    </a>
+    <br>
+
+
+<div>
+<hr> 
 
 <div align="center">
     <a href="https://git.io/typing-svg">

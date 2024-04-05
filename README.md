@@ -27,7 +27,7 @@
 - 🎨 2d digital artist 🎮 PC and PS gamer 🎥 Cinephile<br>
 - 🎸 Hobbyist Guitar player<br>
 - 🌌 Aesthetics lover<br>
-- 🎯 Always driven by the thirst of gaining new knowledge
+- 🎯 Driven by a strong sense of self discipline to learn new things each day.
 <div>
 <hr> 
 

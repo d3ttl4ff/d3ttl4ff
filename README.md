@@ -20,6 +20,7 @@
 <div>
 
 <div align="left">
+
 - 💻 Associate Software Engineer at [Metaroon Labs](https://metaroonlabs.com/), Sri Lanka
 - 📚 Currently learning GraphQL and Dapps..
 - 🎓 Final year undergraduate student from 🇱🇰 Sri Lanka Technological Campus AKA SLTC 📡 

@@ -12,8 +12,8 @@
 </div>
 <hr> -->
 
-<div align="center">
-    <a href="https://git.io/typing-svg">
+<div align="left">
+    <a href="https://git.io/typing-svg" align="center">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=ABD200&center=true&vCenter=true&repeat=false&width=435&lines=A+Gist+of+Me" alt="Typing SVG" />
     </a>
     <br>

@@ -21,12 +21,15 @@
 
 <div align="left">
 
-- 💻 Associate Software Engineer at [Metaroon Labs](https://metaroonlabs.com/), Sri Lanka
-- 📚 Currently learning GraphQL and Dapps..
-- 🎓 Final year undergraduate student from 🇱🇰 Sri Lanka Technological Campus AKA SLTC 📡 
-- 📌 Former IEEE CS SBC Chairman @SLTC
-- 🎯 Highly motivated to learn and explore new tech and solve problems ✅
-- 🥾⛰ Hiking 🎮 PCMR+PS 🎥 Cinephile 🥁 Drums 🎸 MetalHead 🤘
+👋 A second-year undergraduate specializing in Cyber Security at 🇬🇧 Staffordshire University.
+💻 Currently developing a Python and Bash based Web Pentesting automation tool.
+📚 Studying ML and Data science with the intent of crafting AI based Solutions for platforms.
+🎨 2d digital artist.
+🎮 PC and a PS gamer.
+🎸 Guitar and the keyboard player.
+🎥 Cinephile.
+🌌 Aesthetics lover.
+🎯 Always driven by the thirst of gaining new knowledge.
 <div>
 <hr> 
 

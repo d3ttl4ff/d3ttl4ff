@@ -21,14 +21,14 @@
 
 <div align="left">
 
-👋 A second-year undergraduate specializing in Cyber Security at 🇬🇧 Staffordshire University.
-💻 Currently developing a Python and Bash based Web Pentesting automation tool.
-📚 Studying ML and Data science with the intent of crafting AI based Solutions for platforms.
-🎨 2d digital artist.
-🎮 PC and a PS gamer.
-🎸 Guitar and the keyboard player.
-🎥 Cinephile.
-🌌 Aesthetics lover.
+👋 A second-year undergraduate specializing in Cyber Security at 🇬🇧 Staffordshire University.<br>
+💻 Currently developing a Python and Bash based Web Pentesting automation tool.<br>
+📚 Studying ML and Data science with the intent of crafting AI based Solutions for platforms.<br>
+🎨 2d digital artist.<br>
+🎮 PC and a PS gamer.<br>
+🎸 Guitar and the keyboard player.<br>
+🎥 Cinephile.<br>
+🌌 Aesthetics lover.<br>
 🎯 Always driven by the thirst of gaining new knowledge.
 <div>
 <hr> 

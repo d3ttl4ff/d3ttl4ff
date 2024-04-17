@@ -85,7 +85,7 @@
 | -------------------------- |
 
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/d3ttl4ff/d3ttl4ff/output/github-contribution-grid-snake-aa.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/d3ttl4ff/d3ttl4ff/output/github-contribution-grid-snake-b.svg" />
 </div>
 <br>
 

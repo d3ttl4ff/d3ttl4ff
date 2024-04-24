@@ -49,7 +49,7 @@
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=py,bash,debian,linux,git,cs,js,html,css" />
         <br>
-        <img src="https://skillicons.dev/icons?i=vscode,ps" />
+        <img src="https://skillicons.dev/icons?i=vscode,pycharm,ps" />
     </a>
 </p>
 <hr>

@@ -1,5 +1,5 @@
 <h2 align="center">
-<img src="pokemon-emerald-waterfall-pixel-moewalls-com.gif">
+<img src="pixeljeff-1.gif">
     <img src="berserker-hound.gif" width="100">
     <!-- <br> -->
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1000&pause=9000&color=ABD200&center=true&vCenter=true&multiline=true&random=false&width=800&lines='Dreams.+Win+or+lose...+I'm+sure+you+could+spend+your+whole+life+chasing+one.'" alt="Typing SVG" /></a>

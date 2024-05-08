@@ -19,7 +19,7 @@
 - 🎓 A second-year undergraduate specializing in Cyber Security at 🇬🇧 Staffordshire University<br>
 - 💻 Currently developing a Python and Bash based Network and Web Pentesting automation tool<br>
 - 📚 Currently studying Machine Learning<br>
-- 🎨 2d digital artist <br>
+- 🎨 2d digital artist! <br>
 - 🎮 PC gamer <br>
 - 🎸 Hobbyist Guitar player<br>
 - 🌌 Aesthetics lover<br>

@@ -25,12 +25,9 @@
 
 <!-- ---------------------------------------------- -->
 <details open>
-<summary> 
-Gist of Me 🧑🏻‍💻
-</summary>
 
-#
-<!-- <br> -->
+## 🚀 About Me
+<br>
 
 - 💻 Self-taught Developer<br>
 - 🎨 2D/3D digital artist<br>

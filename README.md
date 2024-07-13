@@ -86,7 +86,7 @@
     rank_icon=percentile
  -->
 
-| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=d3ttl4ff&theme=javascript&hide_border=true)](https://git.io/streak-stats) | <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d3ttl4ff&show_icons=true&theme=javascript-dark&rank_icon=default&hide_border=true&locale=en" alt="readme-stats" /></p> |
+| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=d3ttl4ff&theme=vue-dark&hide_border=true)](https://git.io/streak-stats) | <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d3ttl4ff&show_icons=true&theme=vue-dark&rank_icon=default&hide_border=true&locale=en" alt="readme-stats" /></p> |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d3ttl4ff&layout=compact&size_weight=1&count_weight=1&theme=vue-dark&hide_border=true) |

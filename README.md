@@ -14,7 +14,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:326997,100:1f425f&text=Hi!%20I'm%20Aimy&fontAlignY=37&fontColor=ffffff&fontSize=50)
 
-
 <!-- ---------------------------------------------- -->
 ## 🦉 About Me
 - 💻 Self-taught Developer<br>

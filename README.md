@@ -103,10 +103,7 @@
 | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=d3ttl4ff&theme=vue-dark&hide_border=true)](https://git.io/streak-stats) | <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d3ttl4ff&show_icons=true&theme=vue-dark&rank_icon=default&hide_border=true&locale=en" alt="readme-stats" /></p> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
-<!-- | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d3ttl4ff&layout=compact&size_weight=1&count_weight=1&theme=vue-dark&hide_border=true) |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -->
-
-| ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=d3ttl4ff&theme=github_dark) | <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3ttl4ff&langs_count=5&theme=vue-dark" alt="readme-stats" /></p> |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d3ttl4ff&langs_count=6&theme=vue-dark) | <p align="left">&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=d3ttl4ff&theme=github_dark" alt="readme-stats" /></p> |
 | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <div align="center">

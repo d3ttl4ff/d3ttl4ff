@@ -1,5 +1,5 @@
 <h2 align="center">
-    <img src="/assets/header imges/spacex.gif">
+    <img src="/assets/header imges/pokemon-emerald-waterfall-pixel-moewalls-com.gif">
     <!-- <img src="/assets/header imges/berserker-hound.gif" width="100"> -->
     <img src="/assets/dewey gifs/librarian-mode.gif" width="100">
     <img src="/assets/dewey gifs/cool-dewey.gif" width="100">
@@ -98,6 +98,6 @@
 </div>
 <br>
 
-<!-- [![Aimy's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=d3ttl4ff&theme=merko&area=true&hide_border=true)](https://github.com/d3ttl4ff/github-readme-activity-graph) -->
+<!-- [![Aimy's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=d3ttl4ff&theme=vue&area=true&hide_border=true)](https://github.com/d3ttl4ff/github-readme-activity-graph) -->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=65&color=0:326997,100:1f425f&fontAlignY=36&fontColor=ffffff&section=footer)

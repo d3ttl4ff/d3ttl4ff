@@ -1,5 +1,5 @@
 <h2 align="center">
-<img src="/assets/header imges/pokemon-emerald-waterfall-pixel-moewalls-com.gif">
+<!-- <img src="/assets/header imges/pokemon-emerald-waterfall-pixel-moewalls-com.gif"> -->
     <!-- <img src="/assets/header imges/berserker-hound.gif" width="100"> -->
     <img src="/assets/dewey gifs/librarian-mode.gif" width="100">
     <img src="/assets/dewey gifs/cool-dewey.gif" width="100">
@@ -23,13 +23,10 @@
 
 <div align="left">
 
-- 🎓 A second-year undergraduate specializing in Cyber Security at 🇬🇧 Staffordshire University<br>
-- 💻 Currently studying Machine Learning<br>
-- 🎨 2d digital artist<br>
+
+- 💻 Self-taught Developer<br>
+- 🎨 2D/3D digital artist<br>
 - 🎮 PC/PS gamer <br>
-- 🎸 Hobbyist Guitar player<br>
-- 🌌 Aesthetics lover<br>
-- 🎯 Driven by a strong sense of self discipline to learn and discover new things each day
 <div>
 <hr>
 
@@ -50,7 +47,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=ABD200&center=true&vCenter=true&repeat=false&width=435&lines=Languages+and+Tools" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=ABD200&center=true&vCenter=true&repeat=false&width=435&lines=Tech+Stack" alt="Typing SVG" />
     </a>
     <br>
     <a href="https://skillicons.dev">

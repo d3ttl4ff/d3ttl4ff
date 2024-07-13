@@ -12,7 +12,8 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1000&pause=9000&color=ABD200&center=true&vCenter=true&multiline=true&random=false&width=800&lines='Dreams.+Win+or+lose...+I'm+sure+you+could+spend+your+whole+life+chasing+one.'" alt="Typing SVG" /></a>
 </h2>
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:ABD200,100:9fef00&text=Hi!%20%20I'm%20%20Aimy&textBg=false&section=header&fontColor=0D1117&fontAlignY=38&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:326997,100:1f425f&text=Hi!%20I'm%20Aimy&fontAlignY=37&fontColor=ffffff&fontSize=50)
+
 
 <!-- ---------------------------------------------- -->
 ## 🦉 About Me
@@ -99,4 +100,4 @@
 
 <!-- [![Aimy's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=d3ttl4ff&theme=merko&area=true&hide_border=true)](https://github.com/d3ttl4ff/github-readme-activity-graph) -->
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=65&color=0:9fef00,100:ABD200&section=footer&reversal=false)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=65&color=0:326997,100:1f425f&fontAlignY=36&fontColor=ffffff&section=footer)

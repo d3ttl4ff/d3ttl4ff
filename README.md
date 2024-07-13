@@ -24,7 +24,7 @@
 #
 
 <!-- ---------------------------------------------- -->
-## 🧑🏻‍💻 About Me 
+## 🦉 About Me 
 
 - 💻 Self-taught Developer<br>
 - 🎨 2D/3D digital artist<br>
@@ -34,7 +34,7 @@
 #
 
 <!-- ---------------------------------------------- -->
-## 👁️‍🗨️ My Socials
+## 🎩 My Socials
 <!-- <div align="left">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=ABD200&center=true&vCenter=true&repeat=false&width=435&lines=My+Socials" alt="Typing SVG" />

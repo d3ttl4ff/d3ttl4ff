@@ -24,17 +24,11 @@
 #
 
 <!-- ---------------------------------------------- -->
-<details open>
-<summary> 
-
-## 🚀 About Me
-<summary> 
+## 🧑🏻‍💻 About Me 
 
 - 💻 Self-taught Developer<br>
 - 🎨 2D/3D digital artist<br>
 - 🎮 PC/PS gamer <br>
-
-</details>
 <!-- ---------------------------------------------- -->
 
 #

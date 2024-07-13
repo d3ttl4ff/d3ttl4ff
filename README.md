@@ -1,5 +1,5 @@
 <h2 align="center">
-<!-- <img src="/assets/header imges/pokemon-emerald-waterfall-pixel-moewalls-com.gif"> -->
+    <img src="/assets/header imges/pokemon-emerald-waterfall-pixel-moewalls-com.gif">
     <!-- <img src="/assets/header imges/berserker-hound.gif" width="100"> -->
     <img src="/assets/dewey gifs/librarian-mode.gif" width="100">
     <img src="/assets/dewey gifs/cool-dewey.gif" width="100">
@@ -98,6 +98,6 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=folgrj6q5x0og3tss4vpvj8nf&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=folgrj6q5x0og3tss4vpvj8nf&redirect=true)
 </div> -->
 
-[![Aimy's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=d3ttl4ff&theme=merko&area=true&hide_border=true)](https://github.com/d3ttl4ff/github-readme-activity-graph)
+<!-- [![Aimy's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=d3ttl4ff&theme=merko&area=true&hide_border=true)](https://github.com/d3ttl4ff/github-readme-activity-graph) -->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=65&color=0:9fef00,100:ABD200&section=footer&reversal=false)

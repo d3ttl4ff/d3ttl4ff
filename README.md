@@ -27,13 +27,15 @@ Gist of Me 🧑🏻‍💻
 </summary>
 <br>
 
+</details>
+
 <div align="left">
 - 💻 Self-taught Developer<br>
 - 🎨 2D/3D digital artist<br>
 - 🎮 PC/PS gamer <br>
 <div>
 
-</details>
+
 
 <hr>
 

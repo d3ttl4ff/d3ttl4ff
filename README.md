@@ -32,7 +32,9 @@ Gist of Me 🧑🏻‍💻
 - 🎨 2D/3D digital artist<br>
 - 🎮 PC/PS gamer <br>
 <div>
+
 </details>
+
 <hr>
 
 <div align="left">

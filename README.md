@@ -92,7 +92,7 @@
 <!-- | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d3ttl4ff&layout=compact&size_weight=1&count_weight=1&theme=vue-dark&hide_border=true) | 
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -->
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d3ttl4ff&layout=compact&size_weight=1&count_weight=1&theme=vue-dark&hide_border=true) | <p align="left">&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=d3ttl4ff&theme=vue-dark" alt="readme-stats" /></p> |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d3ttl4ff&layout=compact&size_weight=1&count_weight=1&theme=vue-dark&hide_border=true) | <p align="left">&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=d3ttl4ff&theme=nord-dark" alt="readme-stats" /></p> |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 

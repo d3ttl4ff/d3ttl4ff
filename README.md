@@ -1,6 +1,6 @@
 <h2 align="center">
-<img src="pokemon-emerald-waterfall-pixel-moewalls-com.gif">
-    <img src="berserker-hound.gif" width="100">
+<img src="/assets/header imges/pokemon-emerald-waterfall-pixel-moewalls-com.gif">
+    <img src="/assets/header imges/berserker-hound.gif" width="100">
     <!-- <br> -->
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1000&pause=9000&color=ABD200&center=true&vCenter=true&multiline=true&random=false&width=800&lines='Dreams.+Win+or+lose...+I'm+sure+you+could+spend+your+whole+life+chasing+one.'" alt="Typing SVG" /></a>
 </h2>
@@ -24,7 +24,7 @@
 - 🌌 Aesthetics lover<br>
 - 🎯 Driven by a strong sense of self discipline to learn and discover new things each day
 <div>
-<hr> 
+<hr>
 
 <div align="center">
     <a href="https://git.io/typing-svg">
@@ -37,8 +37,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itzluminara)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https%3A%2F%2Ftwitter.com%2Fitzluminara)](https://twitter.com/itzluminara)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/eternal.burn/)
+
 <div>
-<hr> 
+<hr>
 
 <p align="center">
     <a href="https://git.io/typing-svg">
@@ -66,17 +67,18 @@
 	</picture>
 </p>
 
-<!-- 
+<!--
 ##rank_icon alternatives
     rank_icon=default
     rank_icon=github
     rank_icon=percentile
  -->
-| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=d3ttl4ff&theme=merko&hide_border=true)](https://git.io/streak-stats) | <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d3ttl4ff&show_icons=true&theme=merko&rank_icon=default&hide_border=true&locale=en" alt="readme-stats" /></p> |
-| ------------- | ------------- |
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d3ttl4ff\&layout=compact\&size_weight=1&count_weight=1\&theme=merko\&hide_border=true) |
-| -------------------------- |
+| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=d3ttl4ff&theme=merko&hide_border=true)](https://git.io/streak-stats) | <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d3ttl4ff&show_icons=true&theme=merko&rank_icon=default&hide_border=true&locale=en" alt="readme-stats" /></p> |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d3ttl4ff&layout=compact&size_weight=1&count_weight=1&theme=merko&hide_border=true) |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/d3ttl4ff/d3ttl4ff/output/github-contribution-grid-snake-b153.svg" />
@@ -88,7 +90,7 @@
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=ABD200&center=true&vCenter=true&repeat=false&width=435&lines=Listening+Now" alt="Typing SVG" />
     </a>
-    
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=folgrj6q5x0og3tss4vpvj8nf&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=folgrj6q5x0og3tss4vpvj8nf&redirect=true)
 </div> -->
 

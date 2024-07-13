@@ -25,9 +25,10 @@
 
 <!-- ---------------------------------------------- -->
 <details open>
+<summary> 
 
 ## 🚀 About Me
-<br>
+<summary> 
 
 - 💻 Self-taught Developer<br>
 - 🎨 2D/3D digital artist<br>

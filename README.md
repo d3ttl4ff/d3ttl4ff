@@ -1,5 +1,5 @@
 <h2 align="center">
-    <div width="100vw"><img src="/assets/header imges/spacex.gif"></div>
+    <div width="640"><img src="/assets/header imges/spacex.gif"></div>
     <!-- <img src="/assets/header imges/berserker-hound.gif" width="100"> -->
     <img src="/assets/dewey gifs/librarian-mode.gif" width="100">
     <img src="/assets/dewey gifs/cool-dewey.gif" width="100">

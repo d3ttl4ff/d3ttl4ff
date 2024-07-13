@@ -14,12 +14,18 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:ABD200,100:9fef00&text=Hi!%20%20I'm%20%20Aimy&textBg=false&section=header&fontColor=0D1117&fontAlignY=38&fontSize=50)
 
-<div>
+<!-- <div>
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=ABD200&center=true&vCenter=true&repeat=false&width=435&lines=Gist+of+Me" alt="Typing SVG" />
     </a>
     <br>
-<div>
+<div> -->
+
+<details open>
+<summary> 
+Gist of Me 🧑🏻‍💻
+</summary>
+<br>
 
 <div align="left">
 
@@ -77,7 +83,6 @@
     rank_icon=github
     rank_icon=percentile
  -->
-
 | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=d3ttl4ff&theme=merko&hide_border=true)](https://git.io/streak-stats) | <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d3ttl4ff&show_icons=true&theme=merko&rank_icon=default&hide_border=true&locale=en" alt="readme-stats" /></p> |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
@@ -88,15 +93,6 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/d3ttl4ff/d3ttl4ff/output/github-contribution-grid-snake-b153.svg" />
 </div>
 <br>
-
-<!-- <hr>
-<div align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=ABD200&center=true&vCenter=true&repeat=false&width=435&lines=Listening+Now" alt="Typing SVG" />
-    </a>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=folgrj6q5x0og3tss4vpvj8nf&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=folgrj6q5x0og3tss4vpvj8nf&redirect=true)
-</div> -->
 
 <!-- [![Aimy's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=d3ttl4ff&theme=merko&area=true&hide_border=true)](https://github.com/d3ttl4ff/github-readme-activity-graph) -->
 

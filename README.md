@@ -9,7 +9,7 @@
     <img src="/assets/dewey gifs/recharging-dewey.gif" width="100">
     <img src="/assets/dewey gifs/hearts-dewey.gif" width="100">
     <img src="/assets/dewey gifs/happy-dewey.gif" width="100">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1000&pause=9000&color=326997&center=true&vCenter=true&multiline=true&random=false&width=800&lines='Dreams.+Win+or+lose...+I'm+sure+you+could+spend+your+whole+life+chasing+one.'" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1000&pause=9000&color=c5dd00009db7&center=true&vCenter=true&multiline=true&random=false&width=800&lines='Dreams.+Win+or+lose...+I'm+sure+you+could+spend+your+whole+life+chasing+one.'" alt="Typing SVG" /></a>
 </h2>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:326997,100:1f425f&text=Hi!%20I'm%20Aimy&fontAlignY=37&fontColor=ffffff&fontSize=50)

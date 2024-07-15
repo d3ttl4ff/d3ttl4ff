@@ -107,7 +107,7 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d3ttl4ff&langs_count=6&theme=github_dark&hide_border=true&card_width=400) | <p align="left">&nbsp;<img align="center" width="500" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=d3ttl4ff&theme=github_dark" alt="readme-stats" /></p> |
 | -------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d3ttl4ff&langs_count=6&theme=github_dark&hide_border=true&card_width=400) | ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=d3ttl4ff&theme=github_dark) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d3ttl4ff&langs_count=6&theme=github_dark&hide_border=true&card_width=400) | ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=d3ttl4ff&theme=github_dark&card_width=400) |
 | :-: | :-: |
 | Top Languages | Repositories per Language |
 

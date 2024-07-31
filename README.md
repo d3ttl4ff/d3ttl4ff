@@ -42,7 +42,8 @@
 ### Front-end
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React_Js-339933?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React.Js-339933?style=for-the-badge&logo=react&logoColor=white)
+![Threejs](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Tailwind-css](https://img.shields.io/badge/Tailwind_CSS-0081CB?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -50,7 +51,7 @@
 
 ### Back-end
 
-![NodeJS](https://img.shields.io/badge/Node_Js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.Js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express_Js-CA4245?style=for-the-badge&logo=express&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/Mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)

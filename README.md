@@ -1,5 +1,5 @@
 <h2 align="center">
-    <div><img src="/assets/header imges/pokemon-emerald-waterfall-pixel-moewalls-com.gif" width="1280"></div>
+    <!-- <div><img src="/assets/header imges/pokemon-emerald-waterfall-pixel-moewalls-com.gif" width="1280"></div> -->
     <!-- <img src="/assets/header imges/berserker-hound.gif" width="100"> -->
     <img src="/assets/dewey gifs/librarian-mode.gif" width="100">
     <img src="/assets/dewey gifs/shocked-dewey.gif" width="100">

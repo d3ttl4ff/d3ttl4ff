@@ -18,7 +18,7 @@
 
 ## 🦉 Gist of Mee
 
-- 💻 Self-taught Developer<br>
+- 💻 Creative Developer<br>
 - 🎨 2D/3D digital artist<br>
 - 🎮 PC/PS gamer <br>
 <!-- ---------------------------------------------- -->

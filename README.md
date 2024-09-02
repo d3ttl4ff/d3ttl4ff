@@ -23,8 +23,7 @@
 <!-- ---------------------------------------------- -->
 
 <!-- ---------------------------------------------- -->
-
-> 🛠️ Tech Stack
+> [!TIP]Tech Stack 
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React.Js-339933?style=for-the-badge&logo=react&logoColor=white)
@@ -85,7 +84,6 @@
 My Socials 🧑🏻‍💻
 </summary>
 <br>
-
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aimy/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erandasblackburn@gmail.com)

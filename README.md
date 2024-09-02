@@ -23,8 +23,7 @@
 <!-- ---------------------------------------------- -->
 
 <!-- ---------------------------------------------- -->
-
-> [!TIP] Tech Stack 
+> 🛠️ Tech Stack 
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React.Js-339933?style=for-the-badge&logo=react&logoColor=white)
@@ -80,19 +79,13 @@
 
 <!-- ---------------------------------------------- -->
 
-<details open>
-<summary> 
-My Socials 🧑🏻‍💻
-</summary>
-<br>
+> 🧑🏻‍💻 My Socials
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aimy/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erandasblackburn@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itzluminara)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https%3A%2F%2Ftwitter.com%2Fitzluminara)](https://twitter.com/itzluminara)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/eternal.burn/)
-
-</details>
 
 <!-- ---------------------------------------------- -->
 

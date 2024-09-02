@@ -2,13 +2,13 @@
     <!-- <div><img src="/assets/header imges/pokemon-emerald-waterfall-pixel-moewalls-com.gif" width="1280"></div> -->
     <!-- <img src="/assets/header imges/berserker-hound.gif" width="100"> -->
     <img src="/assets/dewey gifs/librarian-mode.gif" width="100">
-    <img src="/assets/dewey gifs/shocked-dewey.gif" width="100">
-    <img src="/assets/dewey gifs/angry-dewey.gif" width="100">
-    <img src="/assets/dewey gifs/sad-dewey.gif" width="100">
     <img src="/assets/dewey gifs/recharging-dewey.gif" width="100">
-    <img src="/assets/dewey gifs/hearts-dewey.gif" width="100">
-    <img src="/assets/dewey gifs/happy-dewey.gif" width="100">
     <img src="/assets/dewey gifs/cool-dewey.gif" width="100">
+    <!-- <img src="/assets/dewey gifs/shocked-dewey.gif" width="100">
+    <img src="/assets/dewey gifs/angry-dewey.gif" width="100">
+    <img src="/assets/dewey gifs/sad-dewey.gif" width="100"> -->
+    <!-- <img src="/assets/dewey gifs/hearts-dewey.gif" width="100">
+    <img src="/assets/dewey gifs/happy-dewey.gif" width="100"> -->
     <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1000&pause=9000&color=c5dd00009db7&center=true&vCenter=true&multiline=true&random=false&width=800&lines='Dreams.+Win+or+lose...+I'm+sure+you+could+spend+your+whole+life+chasing+one.'" alt="Typing SVG" /></a> -->
 </h2>
 

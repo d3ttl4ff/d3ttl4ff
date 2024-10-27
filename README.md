@@ -17,8 +17,8 @@
 <!-- ---------------------------------------------- -->
 
 💻 Creative Developer<br>
-🎨 2D/3D digital artist<br>
-🎮 PC/PS gamer <br>
+🎨 3D Digital Artist<br>
+🎮 PC/PS Gamer <br>
 
 <!-- ---------------------------------------------- -->
 

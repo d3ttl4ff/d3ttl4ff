@@ -25,11 +25,12 @@
 <!-- ---------------------------------------------- -->
 > 🛠️ Tech Stack 
 
-![TypeScript](https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React.Js-339933?style=for-the-badge&logo=react&logoColor=white)
+![Nextjs](https://img.shields.io/badge/Next.Js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Reactjs](https://img.shields.io/badge/React.Js-1572B6?style=for-the-badge&logo=react&logoColor=white)
 ![Threejs](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-dc2626?style=for-the-badge&logo=webgl&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=typescript&logoColor=white)
 ![GLSL](https://img.shields.io/badge/glsl-7c3aed?style=for-the-badge&logo=image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADYElEQVRYhe2XS2zVRRTGf/+2QniUt5AgwoIgaXmKtFQIhJcYLCw0xpjw2JDQlUtJDAkbd27c6K5u3CkEkBoIBEPl/ZJiLYr1GQgYXiI1GqGUj5zku2W89pbeazUsOMnkzp3/zPm+mTlz5psMQBJFWgUwE3gNeALYBnwB3CnGTZZlFEsggFcBrwN1wDigDLgCtAI7gK1AR38TmAG8DCwAqoCn3d7mWc/x/+tuOwxsB1r+DYEngUXAfGCewcM6gV3AfuAccBeoBp4HVgNj3e8EcBI4bUI/9pVA7O1cg78AjHf7N3Z6DNgH/JznbySwwuNq7SPslsk2O066YyUlMBqY7IEvASuTJf0WOAXsMXBfrNarsRh4JlmV446TIPNDlmU3MIEGSe16YL9K2iVpnaShsUIlliGS1kr6RNL1xH9gNXRPRFKTpA5//FPS+5KGSSp3KZVAmcdXSnrPvmWspsCuMIeu4OH6ICDYvQJ8DjS59OloJTYQWOqtqAeeAspzczZm9wrslNQpqUXSVkmX87bjvKQPJNVLquhlxhXu0yjpa0nXEj+X7bvFWDvTFcjVfwLeMdOZjuplwFSX5cB3juTdwBGPXeDgjXwwBZjk9t+cD/Y6UcWs3wJmp6Cp3Qa+B246YpsNHMmnBnjRhJYZsNVjg+x01+8m5L7yKWpPjurtFDCfQKTVwSaAB7Y7Bib6N47YLJ/zHOhfTjaRBc86ds73EBeDjVGQQG92AfjQZZovoi3uH9v2sTNjUVZW7ABbADUm/xtLAQ8rlUBYZYH6/0agX+wxgccEHjkC9/52S/W/dRmjIIEBvo7/i5XJpfkBPREot04LDfimVXB/W1xYm4xxJ9EG/5Bk9yRdkPSppPW9SLLq5K6vLtBnhKQNkvZIuiipK5FkG1MCoyXVSHpD0oHE8VVJhyS9K2lJnvOqpF9V3rdaSW9LOmwfOTslaZOxRgV2T7L8Wd/98/NkedztRy3Lm7yXv/jbBN/zq/1ies4Fi5JQ1AeBLwvJ8p62O/cwWeiHSZ3bfwc+8nNss9viOh7jK3qo245azp8BPgMu5QMU8zSbY5FaZ3U0vkC/3BvxkPV/W29OS3mcRuQGkTXequE+1/H6CT0QoiRKKKSHWikEchaSO+LkVeAPg8Zsi0piWZZxH8kfrrIRMXuZAAAAAElFTkSuQmCC&logoColor=ffffff)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Tailwind-css](https://img.shields.io/badge/Tailwind_CSS-0081CB?style=for-the-badge&logo=tailwindcss&logoColor=white)
